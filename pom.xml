@@ -8,7 +8,7 @@
     <artifactId>anil_cicd</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalname>anil_cicd</finalname>
+    <finalName>anil_cicd</finalName>
 </build>
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
